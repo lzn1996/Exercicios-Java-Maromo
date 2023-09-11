@@ -1,4 +1,4 @@
-public class Playlist {
+public class PlaylistTeste {
     public static void main(String[] args) {
         Musica shineOnYouCrazyDiamond = new Musica();
         shineOnYouCrazyDiamond.setNome("Shine On You Crazy Diamond");
