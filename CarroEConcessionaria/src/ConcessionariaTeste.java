@@ -1,4 +1,4 @@
-public class Concessionaria {
+public class ConcessionariaTeste {
     public static void main(String[] args) {
         Carro corolla = new Carro();
         corolla.setModelo("Toyota Corolla");
