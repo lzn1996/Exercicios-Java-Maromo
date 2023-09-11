@@ -1,1 +1,1 @@
-# Exercícios feitos para a aula de Java com o professor Maromo.
+# Exercícios feitos para a aula de Java com o professor Maromo
