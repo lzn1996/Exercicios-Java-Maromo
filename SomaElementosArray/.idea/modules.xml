@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SomaElementosVetor.iml" filepath="$PROJECT_DIR$/SomaElementosVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomaElementosArray.iml" filepath="$PROJECT_DIR$/SomaElementosArray.iml" />
     </modules>
   </component>
 </project>
