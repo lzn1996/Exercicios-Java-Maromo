@@ -32,7 +32,7 @@ public class Main {
             }
         }
 
-        System.out.println("Matriz 1:");3
+        System.out.println("Matriz 1:");
 
         for (int i = 0; i < matriz1.length; i++) {
             for (int j = 0; j < matriz1[i].length; j++) {
